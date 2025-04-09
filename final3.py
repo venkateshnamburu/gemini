@@ -59,7 +59,7 @@ def clean_json_text(text):
 
 # --- Streamlit UI ---
 st.set_page_config(page_title="Ask Any Document from S3", layout="wide")
-st.title("📄💬 Ask a Question — I’ll Find the Answer from Any PDF in S3")
+st.title("📄💬 Ask a Question from the AWS S3 Cloud")
 
 with st.spinner("🔍 Loading and reading all documents..."):
     try:
