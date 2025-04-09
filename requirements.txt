@@ -1,0 +1,6 @@
+boto3
+botocore
+ipykernel
+pandas
+pymupdf
+google-generativeai
